@@ -1,5 +1,5 @@
 # JAVA CODING TEST
-
+Java coding test
 ## Description
 This *coding test* is designed to test your proficiency in the following areas:
 
